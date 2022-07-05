@@ -23,9 +23,14 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/@harisha41187286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@harisha41187286" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/harishankar patra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harishankar patra" height="30" width="40" /></a>
+<a href="https://codesandbox.com/harishankar999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="harishankar999" height="30" width="40" /></a>
 <a href="https://instagram.com/harishankarpatra7316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harishankarpatra7316" height="30" width="40" /></a>
+<a href="https://medium.com/harishankarpatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="harishankarpatra" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/clonewithhari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="clonewithhari" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/harishankarpatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harishankarpatra" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/harishankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harishankar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,3 +39,5 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harishankar999&show_icons=true&locale=en&layout=compact" alt="harishankar999" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harishankar999&show_icons=true&locale=en" alt="harishankar999" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harishankar999&" alt="harishankar999" /></p>
