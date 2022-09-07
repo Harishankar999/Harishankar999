@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Harishankar Patra</h1>
 <h3 align="center">A passionate Front-end developer from India</h3>
-
+<h4 align="center">I am a computer enthusiast 💻. I love creating websites and I love to explore emerging web technologies. I'm skilled in the MERN Stack I've built some cool projects. Do Check them out. Apart from Coding, I like to reading Books📚, Listening & singing music 🎵 and playing cricket🏏 . I ❤️ talk about creative cooding. So don't hesitate to reach out.😄</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harishankar999&label=Profile%20views&color=0e75b6&style=flat" alt="harishankar999" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harishankar999" alt="harishankar999" /></a> </p>
