@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@harisha41187286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@harisha41187286" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/harishankar-patra-8a0322230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harishankar patra" height="30" width="40" /></a>
-<a href="https://instagram.com/harishankarpatra7316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harishankarpatra7316" height="30" width="40" /></a>
-<a href="https://medium.com/harishankarpatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="harishankarpatra" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/clonewithhari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="clonewithhari" height="30" width="40" /></a>
+<a href="https://twitter.com/@harisha41187286" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@harisha41187286" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harishankar-patra-8a0322230/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harishankar patra" height="30" width="40" /></a>
+<a href="https://instagram.com/harishankarpatra7316" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harishankarpatra7316" height="30" width="40" /></a>
+<a href="https://medium.com/harishankarpatra" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="harishankarpatra" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/clonewithhari" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="clonewithhari" height="30" width="40" /></a>
 
 </p>
 
