@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Harishankar Patra</h1>
-<p align="center"><img height="250px" src="https://camo.githubusercontent.com/e0e846e61b507788af6c1e3a0475478cebe5d77418d21365ae6d104a4a8e0993/68747470733a2f2f692e696d6775722e636f6d2f373939793541332e706e67"/></p>
+<p align="center"><img height="300px" width="50%" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif"/></p>
 <hr/>
 <h2 align="center">A passionate Front-end developer from India</h2>
 <h4 align="center">I am a computer enthusiast 💻. I love creating websites and I love to explore emerging web technologies. I'm skilled in the MERN Stack I've built some cool projects. Do Check them out. Apart from Coding, I like to reading Books📚, Listening & singing music 🎵 and playing cricket🏏 . I ❤️ talk about creative cooding. So don't hesitate to reach out.😄</h4>
