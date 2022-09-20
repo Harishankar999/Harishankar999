@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p align="center"><img height="300px" width="50%" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif"/></p>
 <hr/>
 <h2 align="center">A passionate Front-end developer from India</h2>
-<h4 align="center">I am a computer enthusiast 💻. I love creating websites and I love to explore emerging web technologies. I'm skilled in the MERN Stack I've built some cool projects. Do Check them out. Apart from Coding, I like to reading Books📚, Listening & singing music 🎵 and playing cricket🏏 . I ❤️ talk about creative cooding. So don't hesitate to reach out.😄</h4>
+<h4 align="center">A computer enthusiast 💻. Love to creating websites and like to explore emerging web technologies. Having skills MERN Stack & built some cool projects. Do Check them out. Apart from Coding, Like to reading Books📚, Listening & singing music 🎵 and playing cricket🏏 . ❤️Love to talk about creative cooding. So don't hesitate to reach out.😄</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harishankar999&label=Profile%20views&color=0e75b6&style=flat" alt="harishankar999" /> </p>
 
 
